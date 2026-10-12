@@ -65,7 +65,7 @@ python3 -m pytest tests/backend -v
 ```
 
 ## Screenshots
-Add yours after running locally: `docs/screenshots/overview.png` (capture the Overview page at http://localhost:5173). No screenshot is bundled because bundling a staged image as a "result" would misrepresent a simulated demo.
+Add yours after running locally: `docs/screenshots/overview.png` (capture the Overview page at https://eco-sidecar-360.vercel.app/). No screenshot is bundled because bundling a staged image as a "result" would misrepresent a simulated demo.
 
 ## Hardware & firmware
 See `docs/hardware-overview.md` and `firmware/README.md`. Default firmware mode is **simulation-only**; live actuation is disabled by compile flags and requires a safety review.
